@@ -1,0 +1,9 @@
+{
+  "name": "Never Played",
+  "comment": "All unplayed tracks (tracks with play count of 0), sorted randomly.",
+  "all": [
+    { "is": { "playcount": 0 } }
+  ],
+  "sort": "random",
+  "limit": 500
+}

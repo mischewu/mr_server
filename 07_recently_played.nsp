@@ -1,0 +1,9 @@
+{
+  "name": "Recently Played",
+  "comment": "Up to 100 tracks played in the last 30 days, sorted randomly.",
+  "all": [
+    { "inTheLast": { "lastplayed": 30 } }
+  ],
+  "sort": "random",
+  "limit": 100
+}

@@ -1,0 +1,9 @@
+{
+  "name": "New This Month",
+  "comment": "All tracks added in the last 2 weeks, sorted by album. If no album information, unsorted.",
+  "all": [
+    { "inTheLast": { "dateadded": 14 } }
+  ],
+  "sort": "album,title",
+  "limit": 500
+}

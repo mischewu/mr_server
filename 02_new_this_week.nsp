@@ -1,0 +1,9 @@
+{
+  "name": "New This Week",
+  "comment": "All tracks added in the last 3 days, sorted by album. If no album information, unsorted.",
+  "all": [
+    { "inTheLast": { "dateadded": 3 } }
+  ],
+  "sort": "album,title",
+  "limit": 500
+}

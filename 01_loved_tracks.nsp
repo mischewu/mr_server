@@ -1,0 +1,15 @@
+{
+  "name": "Loved Tracks",
+  "comment": "All starred or loved tracks, sorted by date loved or starred.",
+  "all": [
+    {
+      "any": [
+        { "is": { "loved": true } },
+        { "is": { "starred": true } }
+      ]
+    }
+  ],
+  "sort": "dateloved",
+  "order": "desc",
+  "limit": 500
+}

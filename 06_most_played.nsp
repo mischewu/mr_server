@@ -1,0 +1,10 @@
+{
+  "name": "Most Played",
+  "comment": "The 100 most played songs in your library, sorted randomly.",
+  "all": [
+    { "gt": { "playcount": 0 } }
+  ],
+  "sort": "random",
+  "order": "desc",
+  "limit": 100
+}

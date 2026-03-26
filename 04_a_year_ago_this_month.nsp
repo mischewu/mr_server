@@ -1,0 +1,9 @@
+{
+  "name": "A Year Ago This Month",
+  "comment": "25 random tracks added approximately 1 year ago (around the same month). Updates continuously based on the current month.",
+  "all": [
+    { "inTheRange": { "dateadded": ["2025-03-01", "2025-03-31"] } }
+  ],
+  "sort": "random",
+  "limit": 25
+}
